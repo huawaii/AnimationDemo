@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app_ObjectAnimator/app_ObjectAnimator.iml" filepath="$PROJECT_DIR$/app_ObjectAnimator/app_ObjectAnimator.iml" />
       <module fileurl="file://$PROJECT_DIR$/app_ObjectAnimator/app_ObjectAnimator.iml" filepath="$PROJECT_DIR$/app_ObjectAnimator/app_ObjectAnimator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_interpolator/app_interpolator.iml" filepath="$PROJECT_DIR$/app_interpolator/app_interpolator.iml" />
     </modules>
   </component>
 </project>
