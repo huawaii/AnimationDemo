@@ -16,9 +16,6 @@ gen/
 # Gradle files
 .gradle/
 .idea/
-.idea/.name
-.idea/gradle.xml
-.idea/misc.xml
 build/
 build.gradle
 
