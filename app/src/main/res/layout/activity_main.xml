@@ -10,8 +10,9 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.huawaii.animationdemo.MainActivity">
 
-    <TextView
+    <ImageView
+        android:id="@+id/imageView_plane"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"/>
+        android:layout_centerHorizontal="true"/>
 </RelativeLayout>
